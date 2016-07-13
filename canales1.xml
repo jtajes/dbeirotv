@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!----------------------
+					BIENVENIDO  A ADRYANLIST
+					
+					
+					www.adryanlist.info
+					
+					LISTA DE CANALES PARA KODI
+					
+					
+					
+					
+					
+					1. instalar el Addon AdryanList 
+						Descargar: http://adryanlist.org
+						Mirror Mediafire: http://bit.ly/addon-adryanlist
+					2.- tambien puedes buscar el addon RobinHood  o Livestreamspro
+						2.1: en el Livestreamspro agregar la url http://adryanlist.info
+					3.- Disfrutar ! 
+					
+					
+					
+				
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					AYUDA  , SOPORTE, QUEJAS Y SUGERENCIAS
+					
+					
+					
+				
+					
+					
+					
+					http://blog.adryanlist.info
+-->
+
+
+
+<items>
+<items_info> <!-- this is opitonal -->
+      <title>Adryan List </title> 
+      <genre>Tv Live</genre>
+      <description>: Lista de Canales para el Livestreamspro :</description>
+      <thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail>
+      <fanart>http://adryanlist.org/fanart.jpg</fanart>
+      <date>13.02.2015</date>
+      <cwhiteits>adryan</cwhiteits>
+    </items_info>
+	
+	
+	<!--http://i.imgur.com/  .png-->
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>             [COLOR skyblue][B]    D ' B E I R O [/COLOR][COLOR lightslategray][/COLOR][COLOR deepskyblue]L I S T[/B][/COLOR]   </title>
+<link>http://adryanlist.org/adryan/liist.xml</link>
+<externallink>http://adrian.kodistream.info/list.xml</externallink>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+</item>
+
+<item>
